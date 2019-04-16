@@ -1,2 +1,2 @@
 # atrox-rsps-client
-This repo contains all client files for Atrox RSPS 562
+Contains Atrox RSPS client files
