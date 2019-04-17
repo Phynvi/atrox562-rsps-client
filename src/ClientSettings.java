@@ -16,7 +16,7 @@ public class ClientSettings {
 	public static final String slogan = "2009 Emulation";
 	public static final String serverVersion = "1.0";
 	public static final String websiteLink = "http://atroxrsps.com/";
-	public static final String clientIcon = "http://atroxrsps.com/img/news/news1.jpg";
+	public static final String clientIcon = "https://vignette.wikia.nocookie.net/2007scape/images/9/97/Dragon_scimitar_detail.png/revision/latest?cb=20170118191039";
 	public static final Color startLoadClientBackgroundColor = Color.black;
 	public static final boolean disable_server_list = true;
 	public static final boolean disable_ukeys_check = true;
